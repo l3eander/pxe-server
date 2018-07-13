@@ -1,1 +1,1 @@
-Create a fully functional pxe server OOB as an ansible role
+Create a fully functional OOB PXE server as an ansible role
